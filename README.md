@@ -6,10 +6,11 @@
 [![Sphinx](https://img.shields.io/badge/Sphinx-Docs-blue)](https://erdogant.github.io/distfit/)
 [![Downloads](https://pepy.tech/badge/fitdist/week)](https://pepy.tech/project/fitdist/week)
 
-* ``fitdist`` is Python package that originates from ``distfit`` library.
-* More information can be found [at the distfit library](https://github.com/erdogant/distfit)
+### Background
+	``fitdist`` is Python package that originates from ``distfit`` library.
+	More information can be found [at the distfit library](https://github.com/erdogant/distfit)
 
 ### Maintainer
-	* Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
-	* Contributions are welcome.
-	* See [LICENSE](LICENSE) for details.
+	Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
+	Contributions are welcome.
+	See [LICENSE](LICENSE) for details.
