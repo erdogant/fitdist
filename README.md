@@ -9,11 +9,6 @@
 * ``fitdist`` is Python package that originates from ``distfit`` library.
 * More information can be found [here](https://github.com/erdogant/distfit)
 
-#### Maintainers
 * Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
-
-#### Contribute
 * Contributions are welcome.
-
-#### Licence
-See [LICENSE](LICENSE) for details.
+* See [LICENSE](LICENSE) for details.
