@@ -7,8 +7,9 @@
 [![Downloads](https://pepy.tech/badge/fitdist/week)](https://pepy.tech/project/fitdist/week)
 
 * ``fitdist`` is Python package that originates from ``distfit`` library.
-* More information can be found [here](https://github.com/erdogant/distfit)
+* More information can be found [at the distfit library](https://github.com/erdogant/distfit)
 
-* Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
-* Contributions are welcome.
-* See [LICENSE](LICENSE) for details.
+### Maintainer
+	* Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
+	* Contributions are welcome.
+	* See [LICENSE](LICENSE) for details.
