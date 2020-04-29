@@ -13,7 +13,7 @@ else:
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
-     install_requires=['distfit'],
+     install_requires=['distfit>=1.1.0'],
      python_requires='>=3',
      name='fitdist',
      version=new_version,
