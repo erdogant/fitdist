@@ -1,7 +1,7 @@
 # fitdist - Probability density fitting.
 
 [![Python](https://img.shields.io/pypi/pyversions/fitdist)](https://img.shields.io/pypi/pyversions/fitdist)
-[![PyPI Version](https://img.shields.io/pypi/v/distfit)](https://pypi.org/project/distfit/)
+[![PyPI Version](https://img.shields.io/pypi/v/fitdist)](https://pypi.org/project/fitdist/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/erdogant/distfit/blob/master/LICENSE)
 [![Github Forks](https://img.shields.io/github/forks/erdogant/distfit.svg)](https://github.com/erdogant/distfit/network)
 [![GitHub Open Issues](https://img.shields.io/github/issues/erdogant/distfit.svg)](https://github.com/erdogant/distfit/issues)
