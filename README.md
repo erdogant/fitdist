@@ -11,9 +11,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erdogant/distfit/blob/master/notebooks/distfit.ipynb)
 [![DOI](https://zenodo.org/badge/231843440.svg)](https://zenodo.org/badge/latestdoi/231843440)
 [![Sphinx](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/distfit/)
-<!---[![BuyMeCoffee](https://img.shields.io/badge/buymea-coffee-yellow.svg)](https://www.buymeacoffee.com/erdogant)-->
-<!---[![Coffee](https://img.shields.io/badge/coffee-black-grey.svg)](https://erdogant.github.io/donate/?currency=USD&amount=5)-->
-
 
 * ``fitdist`` is Python package that originates from ``distfit`` library.
 * More information can be found [at the distfit library](https://github.com/erdogant/distfit)
@@ -21,9 +18,7 @@
 ### Maintainers
 * Erdogan Taskesen, github: [erdogant](https://github.com/erdogant)
 
-### Contribute
-* All kinds of contributions are welcome!
-* If you wish to buy me a <a href="https://www.buymeacoffee.com/erdogant">Coffee</a> for this work, it is very appreciated :)
-
 ### Licence
 See [LICENSE](LICENSE) for details.
+
+<a href="https://www.buymeacoffee.com/erdogant"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=erdogant&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
