@@ -9,7 +9,6 @@
 [![Downloads](https://pepy.tech/badge/distfit/month)](https://pepy.tech/project/fitdist)
 [![Downloads](https://pepy.tech/badge/distfit)](https://pepy.tech/project/fitdist)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erdogant/distfit/blob/master/notebooks/distfit.ipynb)
-[![DOI](https://zenodo.org/badge/231843440.svg)](https://zenodo.org/badge/latestdoi/231843440)
 [![Sphinx](https://img.shields.io/badge/Sphinx-Docs-Green)](https://erdogant.github.io/distfit/)
 
 * ``fitdist`` is Python package that originates from ``distfit`` library.
